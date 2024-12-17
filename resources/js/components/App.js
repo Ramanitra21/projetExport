@@ -1,7 +1,7 @@
 import React from 'react';
-
+import LoginPage from './login/login';
 const App = () => {
-    return <h1>Hello from React in Laravel!</h1>;
+    return <LoginPage/>;
 };
 
 export default App;
